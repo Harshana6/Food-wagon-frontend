@@ -7,10 +7,10 @@ import featured6 from "../assets/Images/Image (6).png";
 import featured7 from "../assets/Images/Image (7).png";
 import featured8 from "../assets/Images/Image (2).png";
 import restro1 from "../assets/Images/Image (8).png";
-import restro2 from "../assets/Images/image (9).png";
-import restro3 from "../assets/Images/image (10).png";
-import restro4 from "../assets/Images/image (11).png";
-import restro5 from "../assets/Images/image (12).png";
+import restro2 from "../assets/Images/Image (9).png";
+import restro3 from "../assets/Images/Image (10).png";
+import restro4 from "../assets/Images/Image (11).png";
+import restro5 from "../assets/Images/Image (12).png";
 import restro6 from '../assets/Images/Restaruant Logo.png'
 import restro7 from '../assets/Images/Restaruant Logo (1).png'
 import restro8 from '../assets/Images/Restaruant Logo (2).png'
